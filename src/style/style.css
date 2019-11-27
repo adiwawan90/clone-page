@@ -1,0 +1,48 @@
+.container.warna{
+    background-color: #ec1e37;
+    width: 100%;
+}
+.logo{
+    width: 200px !important;
+}
+.header{
+    background-color: #ec1e37;
+    height: 70px;
+}
+#navbarDropdown{
+    color: white;
+}
+/* .navbar-brand{
+    width: 180px;
+}
+img{
+    width: 180px;
+} */
+.toggler{
+    background-color: transparent;
+}
+.sliderimage{
+    margin-top: 50px;
+}
+.slider{
+    background-color: rgb(186, 3, 2);
+    height: 400px;
+    margin-top: -50px;
+}
+.slide{
+    padding-top: 30px;
+}
+.notive{
+    margin-top: 20px;
+}
+.danger{
+    background-color: rgb(186, 3, 2);
+}
+.slide{
+    padding-top: 20px;
+}@media only screen and (max-width:480px){
+    .slider{
+        background-color: rgb(186, 3, 2);
+        height: 90px;
+    }
+}
