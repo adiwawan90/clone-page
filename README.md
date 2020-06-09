@@ -1,2 +1,2 @@
-# clonePageTelkom
-build landpage telkom idihome with props, router, state and event
+# clone-page
+build landpage with props, router, state and event
